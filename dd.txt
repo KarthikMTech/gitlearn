@@ -1,3 +1,0 @@
-This is the first line
-This is the second commit
-This is a third commit
