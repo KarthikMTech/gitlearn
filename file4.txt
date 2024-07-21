@@ -1,7 +1,5 @@
 what is in the content?
 this is the new content. please go through in it
 this is the change from github portal.
-this is the change from github portal2.
-this is the change from github portal3.
-this is the change from github portal4.
 add something from prompt
+add last sentence. Deleted some of the above statements.
